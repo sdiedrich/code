@@ -38,7 +38,7 @@ fn mandelbrot_at_point(   // <9>
   let mut z = Complex { re: 0.0, im: 0.0 };       // <10>
   let c = Complex::new(cx, cy);                   // <11>
 
-  for i in 0..=max_iters {
+  for i in 0..max_iters {
     if z.norm() > 2.0 {                           // <12>
       return i;
     }

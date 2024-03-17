@@ -1,0 +1,1 @@
+C:\users\Steve\ Diedrich\OneDrive\ -\ Cambrian\ Healthcare\ Consulting\ Inc\Documents\rustdev\rust-in-action\ch2\ch2-mandelbrot\target\debug\ch2-mandelbrot.exe: C:\users\Steve\ Diedrich\OneDrive\ -\ Cambrian\ Healthcare\ Consulting\ Inc\Documents\rustdev\rust-in-action\ch2\ch2-mandelbrot\src\main.rs
